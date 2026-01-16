@@ -84,7 +84,9 @@ messy data : <img width="2940" height="1912" alt="image" src="https://github.com
 
 to this:(after flattening and exploding and using escape and quote options)
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/dc4e71de-01a8-4ad4-bd9b-9607dca1f8c8" />
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c5df9385-03fc-4472-8c4f-0b365b2eca65" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9c38b1a8-19eb-4a46-afe4-c65576ce30c0" />
+
+
 
 
 
